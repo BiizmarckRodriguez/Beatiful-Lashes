@@ -1,0 +1,32 @@
+h1
+{
+Font-family: Lucida Calligraphy; /*tipo de fuente*/
+font-size: 10em; /*tamaño de fuente*/
+color: #dbbfd0; /*color de texto*/
+}
+
+body
+{
+background: #e27de6; /*color de fondo*/
+}
+
+table
+{
+font-size: 2em; /*tamaño de la fuente*/
+}
+
+table tr:hover /*da estilo al pasar por el raton*/
+{
+ background:#ccc;
+}
+
+table td:hover
+{
+ background:#000;
+ color:#fff;
+}
+
+
+
+
+
